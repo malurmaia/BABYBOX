@@ -1,0 +1,10 @@
+.navbar-header{
+    box-shadow: 0 3px 4px ;
+}
+.nav-link {
+    font-family: 'Indie flower', cursive ;
+    margin-top: 60px;
+}
+.navbar-light .navbar-nav .nav-link{
+     color: black;
+}
