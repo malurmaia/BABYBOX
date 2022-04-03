@@ -1,5 +1,6 @@
 import { Container, Nav, Navbar } from 'react-bootstrap'
 import Logo from './assets/img/LOGO.png'
+import Hero from './assets/img/Group-3.jpg'
 function Header () {
   return (
     <header>
@@ -21,11 +22,19 @@ function Header () {
     </header>
   )
 }
+
 function Homeview() {
   return (
   <>
    <Header />
-   <p>HERO</p>
+   <main> 
+     
+      <section className=''>
+       <a href='/'> <img src={Hero} alt='Criança sorrindo' width={1400} height={600} className='img-fluid
+        '/></a>
+      </section>
+     
+   </main>
    <p>Como funciona</p>
    <p>Planos</p>
   </>
