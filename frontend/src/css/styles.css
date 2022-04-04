@@ -8,3 +8,59 @@
 .navbar-light .navbar-nav .nav-link{
      color: black;
 }
+/* .login {
+    background-color: #C27185;
+    border: none;
+    width: 110px;
+    height: 70px;
+} */
+.comofunciona{
+    margin: 0 auto;
+    display: block;
+}
+.notebook{
+    margin: 0 auto;
+    
+}
+.carousel-caption{
+    color: black;
+    font-family: 'Indie flower', cursive;
+    position: relative;
+    left: auto;
+    right: auto;
+}
+.calendario{
+    margin: 0 auto;
+}
+.chat{
+    margin: 0 auto;
+}
+.buttonknowmore{
+    border-radius: 6px;
+    background-color: #F178B6;
+    font-family: 'Indie flower' , cursive;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    width: 120px;
+    justify-content: center;
+    
+
+}
+.howitworks{
+    background-color: #E8DFDF;
+    margin-top: 0;
+}
+.nossosplanosel{
+    background-color: #C27185;
+}
+
+.conhecanossosplanosimg{
+    margin: 0 auto;
+    display: block;
+}
+h1{
+    background-color: #99DAF7 ;
+    border-radius: 10px;
+}
