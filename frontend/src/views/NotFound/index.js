@@ -1,4 +1,6 @@
-function Notfoundview () {
+import { Header } from "../../components/layout/header";
+
+export function NotFoundView () {
     return(
       <>
       <Header/>
