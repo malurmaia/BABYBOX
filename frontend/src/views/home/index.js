@@ -9,7 +9,7 @@ export function Homeview() {
      <main> 
        
         <section className=''>
-         <a href='/'> <img src={Hero} alt='Criança sorrindo' width={1400} height={600} className='img-fluid nenem
+         <a href='/'> <img src={Hero} alt='Criança sorrindo' width={2200} height={800} className='img-fluid nenem
           '/></a>
         </section>
        

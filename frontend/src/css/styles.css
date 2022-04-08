@@ -45,8 +45,17 @@
     display: flex;
     width: 120px;
     justify-content: center;
-    
-
+}
+.assinarplano{
+    border-radius: 6px;
+    background-color: #F178B6;
+    font-family: 'Indie flower' , cursive;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    width: 240px;
+    justify-content: center;
 }
 .howitworks{
     background-color: #E8DFDF;
