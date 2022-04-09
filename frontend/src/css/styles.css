@@ -1,3 +1,4 @@
+/* HEADER */
 .navbar-header{
     box-shadow: 0 3px 4px ;
 }
@@ -14,6 +15,7 @@
     width: 110px;
     height: 70px;
 } */
+/* IMAGES */
 .comofunciona{
     margin: 0 auto;
     display: block;
@@ -22,6 +24,22 @@
     margin: 0 auto;
     
 }
+.calendario{
+    margin: 0 auto;
+}
+.chat{
+    margin: 0 auto;
+}
+.conhecanossosplanosimg{
+    margin: 0 auto;
+    display: block;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+.nenem{
+    display: block;
+    width: 100%xs;
+    }
 .carousel-caption{
     color: black;
     font-family: 'Indie flower', cursive;
@@ -29,12 +47,7 @@
     left: auto;
     right: auto;
 }
-.calendario{
-    margin: 0 auto;
-}
-.chat{
-    margin: 0 auto;
-}
+/* BUTTONS */
 .buttonknowmore{
     border-radius: 6px;
     background-color: #F178B6;
@@ -45,6 +58,7 @@
     display: flex;
     width: 120px;
     justify-content: center;
+   
 }
 .assinarplano{
     border-radius: 6px;
@@ -58,18 +72,46 @@
     justify-content: center;
 }
 .howitworks{
-    background-color: #E8DFDF;
+    /* background-color: #E8DFDF; */
     margin-top: 0;
+    /* width:650px;
+    height:500px; */
+    border:solid 1px #fff;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    position: relative;
 }
+/* ------------------------------------------------ */
 .nossosplanosel{
     background-color: #C27185;
-}
-
-.conhecanossosplanosimg{
-    margin: 0 auto;
-    display: block;
+    
 }
 h1{
     background-color: #99DAF7 ;
     border-radius: 10px;
+    width: 350px;
+    margin: 0 auto;
+}
+h2{
+    padding-bottom: 5px;
+    padding-top: 30px;
+}
+h3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px ;
+}
+ul{
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+.carouselBorder{
+    /* width:650px;
+    height:500px; */
+    border:solid 1px #fff;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    position: relative;
 }
